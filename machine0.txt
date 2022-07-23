@@ -1,0 +1,4 @@
+2,0
+0,a,b,R,0
+0,b,a,R,0
+abababababa
